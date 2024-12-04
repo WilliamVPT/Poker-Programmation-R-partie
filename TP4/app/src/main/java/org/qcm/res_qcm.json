@@ -1,0 +1,15 @@
+{
+    "action": "submit_answers",
+    "user_id": "u123",
+    "qcm_id": "1234",
+    "answers": [
+      {"question_id": "q1", "answer": 1},
+      {"question_id": "q2", "answer": 4},
+      {"question_id": "q3", "answer": 2},
+      {"question_id": "q4", "answer": 1},
+      {"question_id": "q5", "answer": 2},
+      {"question_id": "q6", "answer": 1}
+
+    ]
+  }
+  

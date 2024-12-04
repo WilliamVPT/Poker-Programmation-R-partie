@@ -1,0 +1,43 @@
+{
+    "qcm_id": "1234",
+    "title": "Quizz sur le riche Rémi Rahir",
+    "questions": [
+      {
+        "question_id": "q1",
+        "text": "Combien Rémi a t'il investit sur LMT",
+        "options": ["500", "1000", "5", "5123698"],
+        "correct_option": 1
+      },
+      {
+        "question_id": "q2",
+        "text": "A quel pourcentage la calivitie de Rémi est-elle avancé",
+        "options": ["20%", "10%", "80%", "Plus un cheveux sur le cailloux"],
+        "correct_option": 4
+      },
+      {
+        "question_id": "q3",
+        "text": "Qu'elle est la voiture de Rémi ?",
+        "options": ["Une punto", "Une c3", "un kangoo", "le c15 du seigneur"],
+        "correct_option": 2
+      },
+      {
+        "question_id": "q4",
+        "text": "Rémi est il alcoolique ?",
+        "options": ["Comme moi", "non", "oui"],
+        "correct_option": 1
+      },
+      {
+        "question_id": "q5",
+        "text": "Rémi est il un pigeon ?",
+        "options": ["Non", "Oui il a un Iphone", "Juste Oui"],
+        "correct_option": 2
+      },
+      {
+        "question_id": "q6",
+        "text": "Quelle est l'âge préféré de Rémi en question de fille ?",
+        "options": ["Surtout pas au dessus de 18 ans", "8 ans", "12 ans", "16 ans"],
+        "correct_option": 1
+      }
+    ]
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "action": "get_results",
+    "user_id": "u123",
+    "qcm_id": "1234",
+    "score": 1,
+    "total_questions": 6
+  }
+  

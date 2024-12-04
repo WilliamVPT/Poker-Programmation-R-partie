@@ -1,0 +1,26 @@
+{
+  "62626834-a9da-49f3-9dc2-e3dc294ed1ef" : {
+    "id" : "62626834-a9da-49f3-9dc2-e3dc294ed1ef",
+    "username" : "Alice",
+    "email" : "alice@example.com",
+    "completedQCMs" : [ ]
+  },
+  "82df5fe8-4ea1-45dd-bb49-0b4be2403708" : {
+    "id" : "82df5fe8-4ea1-45dd-bb49-0b4be2403708",
+    "username" : "William",
+    "email" : "william@example.com",
+    "completedQCMs" : [ ]
+  },
+  "afa30c81-e5c3-4d3e-86f8-f834731195b9" : {
+    "id" : "afa30c81-e5c3-4d3e-86f8-f834731195b9",
+    "username" : "William",
+    "email" : "william@example.com",
+    "completedQCMs" : [ ]
+  },
+  "4e78a27e-ce22-4f66-b9bf-980cabb3eeed" : {
+    "id" : "4e78a27e-ce22-4f66-b9bf-980cabb3eeed",
+    "username" : "Alice",
+    "email" : "alice@example.com",
+    "completedQCMs" : [ ]
+  }
+}
